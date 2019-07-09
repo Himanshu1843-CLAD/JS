@@ -23,3 +23,9 @@ Assignment 3- https://jsfiddle.net/fvcr7eta/1/
 Assignment 4- https://jsfiddle.net/csbontpv/2/
 
 Assignment 5-https://jsfiddle.net/dzL2cnes/1/
+
+9-7-2019
+TextBoxes and Radiobutton on click--https://jsfiddle.net/w4x70agh/
+Promise 1- https://jsfiddle.net/5agx0qnc/1/
+Promise 2- https://jsfiddle.net/houkxyps/1/
+Promise 3- https://jsfiddle.net/e65w724y/
