@@ -29,3 +29,6 @@ TextBoxes and Radiobutton on click--https://jsfiddle.net/w4x70agh/
 Promise 1- https://jsfiddle.net/5agx0qnc/1/
 Promise 2- https://jsfiddle.net/houkxyps/1/
 Promise 3- https://jsfiddle.net/e65w724y/
+
+11-7-2019   
+Calculator - https://jsfiddle.net/jwLv4mq5/
