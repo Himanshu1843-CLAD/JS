@@ -29,6 +29,8 @@ TextBoxes and Radiobutton on click--https://jsfiddle.net/w4x70agh/
 Promise 1- https://jsfiddle.net/5agx0qnc/1/
 Promise 2- https://jsfiddle.net/houkxyps/1/
 Promise 3- https://jsfiddle.net/e65w724y/
+Promise 4- https://jsfiddle.net/Lxcgdh32/
 
 11-7-2019   
+Sort_by_filter_by_add_records--  https://jsfiddle.net/9boqd2y4/1/
 Calculator - https://jsfiddle.net/jwLv4mq5/
