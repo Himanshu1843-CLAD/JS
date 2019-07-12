@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		input
+		{
+			margin:20px;
+			height: 30px;
+			width: 230px;
+		}
+		.add
+		{
+			background-color: blue;
+		}
+	</style>
+	<link rel="stylesheet" type="text/css" href="regex.css">
+	
+</head>
+<body>
+	<input type="text" id="reg"><br>
+	<input type="text" id="user"><br>
+	<input type="submit" id="submit">
+	<script src="https://code.jquery.com/jquery-3.4.1.js"
+  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="regex.js"></script>
+<script type="text/javascript">
+	$(document).ready(function()
+	{
+	document.getElementById("submit").addEventListener("click",function()
+	{
+	var user=document.getElementById("user");
+	var user1=user.value;
+	var reg=document.getElementById("reg").value;
+	var h1=document.querySelector("h1");
+	var regex=new RegExp(reg,"g");
+	console.log(regex);
+	var match=user1.match(regex);
+	console.log(match);
+	$("#user").highlightWithinTextarea({
+   					 highlight: match // string, regexp, array, function, or custom object
+				});
+});
+	})
+</script>
+</body>
+</html>
